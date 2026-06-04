@@ -1,0 +1,6 @@
+{
+  "name": "Cult Fit Gym Kharadi",
+  "description": "Kharadi Pune's most advanced data-driven fitness laboratory. Experience high-performance strength training, metabolic conditioning, and elite recovery coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
